@@ -1,0 +1,10 @@
+# JavaCC generated
+
+/src/org/openstreetmap/josm/gui/mappaint/mapcss/parsergen/
+
+# NetBeans specific
+
+/netbeans/build/
+/netbeans/dist/
+/netbeans/nbproject/build-impl.xml
+/netbeans/nbproject/private/private.properties
